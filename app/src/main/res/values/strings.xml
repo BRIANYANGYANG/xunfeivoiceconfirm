@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">xunfeivoice</string>
+
+
+    <!-- 请替换成在语音云官网申请的appid -->  5bcc31c5
+    <string name="app_id">5a40a4b6</string>
+</resources>
